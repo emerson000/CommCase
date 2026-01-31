@@ -2,6 +2,8 @@
 
 > A proof of concept for a 3D-printable, modular emergency communications kit with interchangeable components
 
+![Assembled Crate](https://github.com/emerson000/CommCrate/wiki/images/build-guide-cover.png)
+
 ## Overview
 
 This project provides a modular framework for building emergency communications (EMCOMM) go-kits that can be easily customized and reconfigured without fabrication of new parts. The system uses 3D-printed structural components, module enclosures, and panel-mounted equipment to create a flexible communications platform that fits inside protective cases like Pelican cases.
@@ -26,7 +28,7 @@ This project provides a modular framework for building emergency communications 
 
 ## Guide
 
-An assembly guide and video will be published soon.
+See the [Build Guide](https://github.com/emerson000/CommCrate/wiki/Build-Guide) for assembly instructions.
 
 
 ## Design Principles
